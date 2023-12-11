@@ -1,0 +1,9 @@
+[submodule "NetLib"]
+	path = NetLib
+	url = git@github.com:jjwilkerson/NetLib.git
+[submodule "SentEncDec"]
+	path = SentEncDec
+	url = git@github.com:jjwilkerson/SentEncDec.git
+[submodule "SvComp"]
+	path = SvComp
+	url = git@github.com:jjwilkerson/SvComp.git
