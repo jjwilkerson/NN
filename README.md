@@ -29,7 +29,7 @@ This project is associated with the paper titled "Return of the RNN: Residual Re
 To get started with the NN Project, clone this repository along with its submodules:
 
 ```bash
-git clone --recurse-submodules https://github.com/jjwilkerson/NN.git
+git clone --recurse-submodules git@github.com:jjwilkerson/NN.git
 ```
 
 ## Contribution
